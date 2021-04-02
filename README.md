@@ -6,7 +6,15 @@
 
 - 🌱 I’m currently learning **Responsive Web Design <3 freecodecamp.org**
 
+- 📖 I'm currently reading **Clean Code, by Robert Cecil Martin**
+
 - 🤝 Connect with me: <a href="https://linkedin.com/in/dev-wesley-nunes" target="blank">**Linkedin.com/in/dev-wesley-nunes/**</a>
+<br>
+
+- 🛠️ <a href="https://github.com/Wesley-Nunes/Wesley-Nunes/blob/main/projects-in-progress.md" target="blank"> Projects in progress.</a> ( with a brief description.) 
+- ✅ <a href="https://github.com/Wesley-Nunes/Wesley-Nunes/blob/main/projects-concluded.md" target="blank"> Projects concluded.</a> ( with a brief description.)
+
+
 <br>
 <br>
 <br>
