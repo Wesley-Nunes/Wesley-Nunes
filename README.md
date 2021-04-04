@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>  
 <br>
 
-- 🔭 I’m currently working on **|| Open to Work**
+- 🔭 I’m currently working on | **Open to Work**
 
 - 🌱 I’m currently learning **Responsive Web Design <3 freecodecamp.org**
 
-- 📖 I'm currently reading **Clean Code, by Robert Cecil Martin**
+- 📖 I'm currently reading **Clean Code, by Robert Cecil Martin** | <a href="https://github.com/Wesley-Nunes/books/tree/main/clean-code" target="black">[My Notes]</a>
 
 - 🤝 Connect with me: <a href="https://linkedin.com/in/dev-wesley-nunes" target="blank">**Linkedin.com/in/dev-wesley-nunes/**</a>
 
