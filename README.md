@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on | **Open to Work**
 
-- 🌱 I’m currently learning **Responsive Web Design <3 freecodecamp.org**
+- 🌱 I’m currently learning **Responsive Web Design <3 freecodecamp.org** | <a href="https://github.com/Wesley-Nunes/courses/tree/main/responsive-web-design">[My Codes]</a>
 
-- 📖 I'm currently reading **Clean Code, by Robert Cecil Martin** | <a href="https://github.com/Wesley-Nunes/books/tree/main/clean-code" target="black">[My Notes]</a>
+- 📖 I'm currently reading **Clean Code, by Robert Cecil Martin** | <a href="https://github.com/Wesley-Nunes/books/tree/main/clean-code">[My Notes]</a>
 
-- 🤝 Connect with me: <a href="https://linkedin.com/in/dev-wesley-nunes" target="blank">**Linkedin.com/in/dev-wesley-nunes/**</a>
+- 🤝 Connect with me: <a href="https://linkedin.com/in/dev-wesley-nunes">**Linkedin.com/in/dev-wesley-nunes/**</a>
 
 <br>
 
-- 🛠️ <a href="https://github.com/Wesley-Nunes/Wesley-Nunes/blob/main/projects-in-progress.md" target="blank"> Projects in progress.</a>
+- 🛠️ <a href="https://github.com/Wesley-Nunes/Wesley-Nunes/blob/main/projects-in-progress.md"> Projects in progress.</a>
 
-- ✅ <a href="https://github.com/Wesley-Nunes/Wesley-Nunes/blob/main/projects-concluded.md" target="blank"> Projects concluded.</a>
+- ✅ <a href="https://github.com/Wesley-Nunes/Wesley-Nunes/blob/main/projects-concluded.md"> Projects concluded.</a>
 
 <br>
 <br>
