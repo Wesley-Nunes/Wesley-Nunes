@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning **Responsive Web Design <3 freecodecamp.org** | <a href="https://github.com/Wesley-Nunes/courses/tree/main/responsive-web-design">[My Codes]</a>
 
-- 📖 I'm currently reading **Clean Code, by Robert Cecil Martin** | <a href="https://github.com/Wesley-Nunes/books/tree/main/clean-code">[My Notes]</a>
-
+- 📖 I'm currently reading **Clean Code, by Robert Cecil Martin** 
 <br>
 
 - 🛠️ <a href="https://github.com/Wesley-Nunes/Wesley-Nunes/blob/main/projects-in-progress.md"> Projects in progress.</a>
