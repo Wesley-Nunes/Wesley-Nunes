@@ -1,7 +1,19 @@
 ### The projects below are all concluded and organized in order of newest to oldest:
 Name | Stack | Time of development
 
-- [Birthday Reminder | React js | 8 days](http://wesley-nunes.github.io/birthday-reminder)
+  
+
+- [Personal Portfolio | HTML5, CSS3 | 1 day](https://codepen.io/wesley-nunes/full/QWdYgPv)  
+
+- [Technical Documentation Page | HTML5, CSS3 | 1 day](https://codepen.io/wesley-nunes/full/zYNyVop)  
+
+- [Product Landing Page | HTML5, CSS3 | 1 day](https://codepen.io/wesley-nunes/full/RwKEGdj)  
+
+- [Survey Form | HTML5, CSS3 | 1 day](https://codepen.io/wesley-nunes/full/QWdZBaQ)  
+
+- [Tribute Page | HTML5, CSS3 | 1 day](https://codepen.io/wesley-nunes/full/WNRgQjy)  
+
+- [Birthday Reminder | React js | 8 days](http://wesley-nunes.github.io/birthday-reminder)  
 
 - [Jogo da Memoria | HTML5, CSS3, Vanilla Javascript|  1 day](https://wesley-nunes.github.io/jogo-da-memoria/)
 
