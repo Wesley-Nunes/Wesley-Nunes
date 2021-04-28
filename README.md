@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on | **Open to Work**
 
-- 🌱 I’m currently learning **Responsive Web Design <3 freecodecamp.org** | <a href="https://github.com/Wesley-Nunes/courses/tree/main/responsive-web-design">[My Codes]</a>
+- 🌱 I’m currently learning **Javascript Algorithms and Data Structures <3 freecodecamp.org** | <a href="https://github.com/Wesley-Nunes/courses/tree/main/javascript-algorithms-and-data-structures">[My Codes]</a>
 
 - 📖 I'm currently reading **Clean Code, by Robert Cecil Martin** 
 <br>
