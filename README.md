@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on | **Open to Work**
 
-- 🌱 I’m currently learning **<a href="https://roadmap.sh/frontend">FrontEnd Roadmap topics</a> - Kamran Ahmed** | <a href="https://bit.ly/34q2SO9">[My Notes]</a>
+- 🌱 I’m currently learning **<a href="https://www.freecodecamp.org/learn/front-end-libraries/">Front End Development Libraries</a> ❤️ Free Code Camp** | <a href="https://github.com/Wesley-Nunes/courses/tree/main/front-end-libraries">[My Codes]</a>
 
 - 📖 I'm currently reading **Clean Code, by Robert Cecil Martin** 
 <br>
