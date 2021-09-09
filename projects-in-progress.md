@@ -1,7 +1,7 @@
 
 # Hey 👋
 
-### :construction: - My current project:
+### :construction: - My current project: [Calculator](https://github.com/Wesley-Nunes/fcc-javascript-calculator/)
 ### :rocket: - What challenges I'm facing:
 ### :closed_book: - What I had learned until now:
 
