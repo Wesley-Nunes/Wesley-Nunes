@@ -2,7 +2,7 @@
 ### A passionate frontend developer from Brazil  
   
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-wesley-nunes/)](https://www.linkedin.com/in/dev-wesley-nunes/)
-[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleynummonteiro@gmail.com)](mailto:wesleynummonteiro@gmail.com)
+[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesnmonteiro@gmail.com)](mailto:wesnmonteiro@gmail.com)
 ##
 
 - 🔭 I’m currently **Open to Work**
