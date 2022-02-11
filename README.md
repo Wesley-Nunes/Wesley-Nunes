@@ -7,13 +7,7 @@
 
 - 🔭 I’m currently **Open to Work**
 
-- 🌱 I’m currently learning **[Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/) ❤️ Free Code Camp** | <a href="https://github.com/Wesley-Nunes/courses/tree/main/front-end-libraries">[My Codes]</a>
-
-- 📖 I'm currently reading **Clean Code, by Robert Cecil Martin** 
-
-##
-
-- 🛠️ [Projects in progress](https://github.com/Wesley-Nunes/Wesley-Nunes/blob/main/projects-in-progress.md)
+- 🌱 I’m currently learning **[Eduzz Fullstack Developer](https://web.dio.me/track/eduzz-fullstack-developer-3) ❤️ [DIO](https://web.dio.me/home)**
 
 ##
 
