@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently **Open to Work**
 
-- 🌱 I’m currently learning **[Eduzz Fullstack Developer](https://web.dio.me/track/eduzz-fullstack-developer-3) ❤️ [DIO](https://web.dio.me/home)**
+- 🌱 I’m currently learning **[Front-end web developer](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) ❤️ [MDN Web Docs](https://developer.mozilla.org/en-US/)**
+
+- 📚 I'm currently reading **[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)**
 
 ##
 
