@@ -5,9 +5,9 @@
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesnmonteiro@gmail.com)](mailto:wesnmonteiro@gmail.com)
 ##
 
-- 🔭 I’m currently **Open to Work**
+- ✔️ Software Developer at [Docsie.io](https://www.docsie.io/) 😎
 
-- 🌱 I’m currently learning **[Front-end web developer](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) ❤️ [MDN Web Docs](https://developer.mozilla.org/en-US/)**
+- 🌱 I’m currently learning **Front End - [Hiring Coders](https://www.hiringcoders.com.br/) ❤️ [Gama Academy](https://www.gama.academy/)**
 
 - 📚 I'm currently reading **[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)**
 
