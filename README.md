@@ -7,7 +7,7 @@
 
 - ✔️ Software Developer at [Docsie.io](https://www.docsie.io/) 😎
 
-- 🌱 I’m currently learning **Front End - [Hiring Coders](https://www.hiringcoders.com.br/) ❤️ [Gama Academy](https://www.gama.academy/)**
+- 🌱 I’m currently learning **[JavaScript Game Development Course for Beginners](https://youtu.be/GFO_txvwK_c) ❤️ [Free code camp](https://www.freecodecamp.org/)**
 
 - 📚 I'm currently reading **[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)**
 
