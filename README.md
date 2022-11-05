@@ -7,7 +7,7 @@
 
 - ✔️ Software Developer at [Docsie.io](https://www.docsie.io/) 😎
 
-- 🌱 I’m currently learning **[Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer) ❤️ [Unity](https://unity.com/)**
+- 🌱 I’m currently learning **[Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) ❤️ [Free Code Camp](https://www.freecodecamp.org/)**
 
 - 📚 I'm currently reading **[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)**
 
