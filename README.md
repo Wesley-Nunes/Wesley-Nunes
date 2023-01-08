@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **[Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) ❤️ [Free Code Camp](https://www.freecodecamp.org/)**
 
-- 📚 I'm currently reading **[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)** *&* **[Pro Git](https://git-scm.com/book/en/v2)**
+- 📚 I'm currently reading **[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)**
 
 ##
 
