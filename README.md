@@ -25,9 +25,6 @@
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
 </div>
 
-##
-
-![snake gif](https://github.com/Wesley-Nunes/Wesley-Nunes/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
