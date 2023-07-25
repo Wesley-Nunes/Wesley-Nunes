@@ -7,10 +7,6 @@
 
 - ✔️ Software Developer at [Docsie.io](https://www.docsie.io/) 😎
 
-- 🌱 I’m currently learning **[Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) ❤️ [Free Code Camp](https://www.freecodecamp.org/)**
-
-- 📚 I'm currently reading **[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)**
-
 ##
 
 <div style="display: inline_block"><br>  
