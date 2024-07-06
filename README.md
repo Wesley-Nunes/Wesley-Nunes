@@ -5,7 +5,9 @@
 
 - ✔️ Software Developer at [Docsie.io](https://www.docsie.io/) 😎
 
-- 🌱 I’m currently learning **[Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design)**
+- 🌱 I’m currently learning **[Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)**
+- 📚 I'm currently reading **[Refactoring: Improving the Design of Existing Code](https://a.co/d/05NZTChP)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
