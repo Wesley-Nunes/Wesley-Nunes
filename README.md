@@ -1,4 +1,4 @@
-<img src="https://github.com/Wesley-Nunes/Wesley-Nunes/assets/43190808/ea9e3caa-a7e5-46f0-88a9-336e8f3f810c" width="100%" height="144px" style="object-fit: fill;" />
+![constelation](https://github.com/user-attachments/assets/a7d1942f-a917-4808-b98d-aa7e0ecc2cb8)
 
 <h1 align="center">Hi 👋, I'm Wesley</h1>
 <h3 align="center">An enthusiastic Front End developer from Brazil 🇧🇷</h3>
@@ -21,6 +21,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley-nunes&show_icons=true&locale=en&hide_progress=true&hide=shaderlab,hlsl&theme=tokyonight" alt="wesley-nunes" /></p>  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
