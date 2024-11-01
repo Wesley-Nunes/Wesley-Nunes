@@ -1,11 +1,8 @@
 ![constelation](https://github.com/user-attachments/assets/a7d1942f-a917-4808-b98d-aa7e0ecc2cb8)
 
 <h1 align="center">Hi 👋, I'm Wesley</h1>
-<h3 align="center">An enthusiastic Front End developer from Brazil 🇧🇷</h3>
+<h3 align="center">An enthusiastic Developer from Brazil 🇧🇷</h3>
 
-- ✔️ Software Developer at [Docsie.io](https://www.docsie.io/) 😎
-
-- 🌱 I’m currently learning **[Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)**
 - 📚 I'm currently reading **[Refactoring: Improving the Design of Existing Code](https://a.co/d/05NZTChP)**
 
 
