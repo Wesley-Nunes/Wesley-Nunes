@@ -1,9 +1,9 @@
 ![constelation](https://github.com/user-attachments/assets/a7d1942f-a917-4808-b98d-aa7e0ecc2cb8)
 
 <h1 align="center">Hi 👋, I'm Wesley</h1>
-<h3 align="center">An enthusiastic Developer from Brazil 🇧🇷</h3>
+<h3 align="center">An enthusiastic developer from Brazil 🇧🇷</h3>
 
-- 📚 I'm currently reading **[Refactoring: Improving the Design of Existing Code](https://a.co/d/05NZTChP)**
+- 🌳 I'm currently studying **[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)** - freecodecamp. ❤️  
 
 
 <h3 align="left">Connect with me:</h3>
