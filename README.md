@@ -3,8 +3,16 @@
 <h1 align="center">Hi 👋, I'm Wesley</h1>
 <h3 align="center">An enthusiastic developer from Brazil 🇧🇷</h3>
 
-- 🌳 I'm currently studying **[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)** - freecodecamp. ❤️  
+## 🕷️ Current Project 🧙
 
+### [Nameless Circle](https://github.com/Wesley-Nunes/nameless-circle)
+
+> A dark fantasy text-based RPG with immersive storytelling and strategic gameplay.
+
+
+.  
+..  
+...  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +22,7 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-nunes&show_icons=true&locale=en&theme=tokyonight" alt="wesley-nunes" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley-nunes&show_icons=true&locale=en&hide_progress=true&hide=shaderlab,hlsl&theme=tokyonight" alt="wesley-nunes" /></p>  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
