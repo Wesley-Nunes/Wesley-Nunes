@@ -13,6 +13,16 @@
 .  
 ..  
 ...  
+## 🐍 Last Project 🤗
+
+### [news-semantic-search](https://github.com/Wesley-Nunes/news-semantic-search)
+
+> A semantic search system for news articles using BBC News dataset and E5-small-v2 embeddings to find relevant content based on meaning rather than just keywords.
+
+
+.  
+..  
+...  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
